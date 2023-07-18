@@ -1,6 +1,6 @@
 -  Hi, I’m Shourya Shree @Shree23Github
 - 👀 I’m interested in Full Stack Developement.
-- 🌱 I’m currently learning Front-End Developement,Java,DSA and Machine learning.
+- 🌱 I’m currently learning Back-End Developement,Java,DSA and Machine learning.
 - 💞️ I’m looking to collaborate on Front End Projects.
 - 📫 How to reach me ...
 - Linkedln---https://www.linkedin.com/in/shourya-shree-140641226/
